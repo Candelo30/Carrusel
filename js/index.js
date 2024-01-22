@@ -6,7 +6,6 @@ const
 
 BtnRight.addEventListener('click', e=> moveRight());    
 Btnleft.addEventListener('click', e=> moveLeft());    
-SliderView.addEventListener('click', e=> SearchImg());    
 
 var operacion = 0,
 counter = 0,
