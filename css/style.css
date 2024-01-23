@@ -109,8 +109,8 @@ body {
 }
 
 .container-main {
-  height: 70vh;
-  width: 70vh;
+  height: 50vh;
+  min-width: 500px;
   position: relative;
   background-color: rgba(128, 128, 128, 0.055);
   border: 1px var(--bg-primary) solid;
